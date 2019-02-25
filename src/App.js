@@ -87,8 +87,7 @@ class App extends Component {
       handleRemove,
       handleSelectorColor,
     } = this
-
-    // console.log('app')
+    
     return (
       <TodoListTemaplate form={(
           <Form
